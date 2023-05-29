@@ -1,2 +1,2 @@
-# controle-de-voo-java
-Pequeno Programa para controle de vôo em Java
+# Prática - Persistência de Dados
+Praticando persistência de dados com Java + Postgresql
