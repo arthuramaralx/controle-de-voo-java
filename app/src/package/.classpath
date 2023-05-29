@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+    <classpathentry kind="lib" path="C:\Users\Arthu\Downloads\postgresql-42.6.0.jar"/>
+    <!-- Outras dependências do seu projeto -->
+</classpath>

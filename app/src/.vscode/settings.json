@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "postgresql-42.6.0.jar",
+        "c:\\Users\\Arthu\\Downloads\\postgresql-42.6.0.jar"
+    ],
+    "java.dependency.packagePresentation": "hierarchical"
+}
